@@ -1,0 +1,24 @@
+{
+  "test_loss": 0.31390607357025146,
+  "test_accuracy": 0.8662674427032471,
+  "test_precision": 0.4000000059604645,
+  "test_recall": 0.4071856141090393,
+  "test_auc": 0.8274117708206177,
+  "benign": {
+    "precision": 0.9642512077294686,
+    "recall": 0.7470059880239521,
+    "f1_score": 0.8418388865457613
+  },
+  "melanoma": {
+    "precision": 0.2777777777777778,
+    "recall": 0.7784431137724551,
+    "f1_score": 0.4094488188976378
+  },
+  "confusion_matrix": {
+    "true_negative": 998,
+    "false_positive": 338,
+    "false_negative": 37,
+    "true_positive": 130
+  },
+  "last_updated": "2025-12-12 03:47:54"
+}
